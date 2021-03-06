@@ -1,8 +1,8 @@
 import math
 import numpy as np
 
-width = 1000
-sigma = 500
+width = 4
+sigma = 2
 
 ret = np.zeros(shape=(2*width + 1, 2*width + 1))
 
