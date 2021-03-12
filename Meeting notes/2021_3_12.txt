@@ -1,0 +1,2 @@
+1. Collect all the paper related (LER reduction).
+2. Try to minimize the maximum of the two variations.
